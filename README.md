@@ -37,8 +37,7 @@ The full analysis lives in [`zdna_pangenomes.ipynb`](zdna_pangenomes.ipynb):
 
 ## Requirements
 
-Python ≥ 3.11 with `numpy`, `pandas`, `polars`, `pyarrow`, `scipy`,
-`matplotlib`, `biopython`, `tqdm`, plus `ZSeeker` and `bedtools` on the path.
+All analyses were performed using custom BASH scripts and Python v3.9.7 using numpy v2.0.2, pandas v2.3.1, polars v1.32.3, scipy v1.13.1, statsmodels v0.14.5, scikit-learn v1.6.1, pyranges v0.1.4, pybedtools v0.12.0, pyBigWig v0.3.24, and pyarrow v16.1.0. Figures were generated with matplotlib v3.9.4.
 
 ## Notes
 
