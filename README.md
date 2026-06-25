@@ -28,7 +28,7 @@ The full analysis lives in [`zdna_pangenomes.ipynb`](zdna_pangenomes.ipynb):
    density over ACGT-only effective length.
 3. **Figure 1** — private vs shared predictions, score/length distributions,
    density across superpopulations, per-chromosome and parental differences.
-4. **GC-matched controls** at 5 / 10 / 15% GC tolerance.
+4. **GC-matched controls** at 10% GC + CpG tolerance.
 5. **Karyograms** — Z-DNA density by cytoband, CenSat class, and sequence class.
 6. **Genomic-feature enrichment** — genes, introns, repeats, CenSat, telomere.
 7. **Mutation-anchored metaprofiles** — Z-DNA vs control enrichment around
