@@ -17,7 +17,7 @@ predicted Z-DNA with composition-matched control sequences, using 52 million HPR
 
 | File | Description |
 |---|---|
-| `Z-DNA_instability_human_pangenome_analysis.ipynb` | Annotated notebook with every analysis, figure, table and Supplementary Data 1 |
+| `zdna_genomic_variation_human_pangenome.ipynb` | Annotated notebook with every analysis, figure, table and Supplementary Data 1 |
 | `docs/workflow.png` | Study overview (Fig. 1a) |
 
 ## Data
